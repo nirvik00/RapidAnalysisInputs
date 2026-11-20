@@ -1,0 +1,9 @@
+ok these are the links:
+scene.json
+https://github.com/nirvik00/RapidAnalysisInputs/blob/master/scene.json
+
+epw:
+https://github.com/nirvik00/RapidAnalysisInputs/blob/master/USA_MA_Boston-Logan.Intl.AP.725090_TMYx.2004-2018.epw
+
+settings.json:
+https://github.com/nirvik00/RapidAnalysisInputs/blob/master/settings.json
